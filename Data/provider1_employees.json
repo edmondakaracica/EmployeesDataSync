@@ -1,0 +1,86 @@
+[
+  {
+    "emp_id": "123458",
+    "first_name": "Oliver",
+    "last_name": "Williams",
+    "position": "Software Developer",
+    "gender": "M",
+    "dob": "1995-04-15",
+    "preferred_language": "EN_US",
+    "unique_code": "P1-OLI-159",
+    "phone": "555-123-4567",
+    "contact_email": "oliver.william@example.com"
+  },
+  {
+    "emp_id": "2345671",
+    "first_name": "Henry",
+    "last_name": "Brown",
+    "position": "Backend Engineer",
+    "gender": "M",
+    "dob": "1988-11-20",
+    "preferred_language": "SK-SK",
+    "unique_code": "P1-MIC-179",
+    "phone": "555-987-6543",
+    "contact_email": "henry.brown@example.com"
+  },
+  {
+    "emp_id": "234568",
+    "first_name": "Ana",
+    "last_name": "Smith",
+    "position": "Backend Engineer",
+    "gender": "F",
+    "dob": "1988-11-20",
+    "preferred_language": "SK-SK",
+    "unique_code": "P1-ANE-389",
+    "phone": "555-987-3678",
+    "contact_email": "ana.smith64@example.com"
+  },
+  {
+    "emp_id": "2345612",
+    "first_name": "Eve",
+    "last_name": "Alison",
+    "position": "Backend Engineer",
+    "gender": "F",
+    "dob": "1988-11-20",
+    "preferred_language": "SK-SK",
+    "unique_code": "P1-RER-389",
+    "phone": "555-987-4567",
+    "contact_email": "eve.alison@example.com"
+  },
+  {
+    "emp_id": "2345718",
+    "first_name": "Benjamin",
+    "last_name": "Wilson",
+    "position": "Backend Engineer",
+    "gender": "M",
+    "dob": "1988-11-20",
+    "preferred_language": "SK-SK",
+    "unique_code": "P1-EME-099",
+    "phone": "555-987-4567",
+    "contact_email": "benjamin.wilson@example.com"
+  },
+  {
+    "emp_id": "1238919",
+    "first_name": "Sophia",
+    "last_name": "Smith",
+    "position": "Backend Engineer",
+    "gender": "F",
+    "dob": "1988-11-20",
+    "preferred_language": "SK-SK",
+    "unique_code": "P1-EME-727",
+    "phone": "555-987-4567",
+    "contact_email": "spophia.smith@example.com"
+  },
+  {
+    "emp_id": "785963",
+    "first_name": "Ella",
+    "last_name": "Anderson",
+    "position": "Project Manager",
+    "gender": "F",
+    "dob": "1988-11-20",
+    "preferred_language": "SK-SK",
+    "unique_code": "P1-EME-547",
+    "phone": "555-987-4567",
+    "contact_email": "ella.andersonn@example.com"
+  }
+]

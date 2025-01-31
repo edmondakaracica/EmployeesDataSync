@@ -1,0 +1,74 @@
+[
+  {
+    "id": "67890",
+    "employee_firstname": "Mason",
+    "employee_lastname": "Brown",
+    "title": "Product Manager",
+    "gender_identity": "M",
+    "date_of_birth": "1990-02-10",
+    "locale": "ES-ES",
+    "employee_number": "P2-MAS-206",
+    "mobile_number": "444-222-7890",
+    "work_email": "mason.brown@example.com"
+  },
+  {
+    "id": "78901",
+    "employee_firstname": "Carter",
+    "employee_lastname": "White",
+    "title": "QA Engineer",
+    "gender_identity": "M",
+    "date_of_birth": "1985-09-30",
+    "locale": "FR-BE",
+    "employee_number": "P2-TER-207",
+    "mobile_number": "333-111-5678",
+    "work_email": "carter.white@example.com"
+  },
+  {
+    "id": "789014",
+    "employee_firstname": "Alex",
+    "employee_lastname": "Goodman",
+    "title": "Automation Engineer",
+    "gender_identity": "M",
+    "date_of_birth": "1985-09-30",
+    "locale": "FR-BE",
+    "employee_number": "P2-ALE-214",
+    "mobile_number": "333-111-3245",
+    "work_email": "alex.goodman98@example.com"
+  },
+  {
+    "id": "789054",
+    "employee_firstname": "Layla",
+    "employee_lastname": "Allison",
+    "title": "Automation Engineer",
+    "gender_identity": "F",
+    "date_of_birth": "1985-09-30",
+    "locale": "FR-BE",
+    "employee_number": "P2-ERE-618",
+    "mobile_number": "333-111-1234",
+    "work_email": "layla.alison@example.com"
+  },
+  {
+    "id": "789064",
+    "employee_firstname": "Samuel",
+    "employee_lastname": "Jackson",
+    "title": "Automation Engineer",
+    "gender_identity": "M",
+    "date_of_birth": "1985-09-30",
+    "locale": "FR-BE",
+    "employee_number": "P2-SAM-318",
+    "mobile_number": "333-111-7685",
+    "work_email": "samuel.jackson@example.com"
+  },
+  {
+    "id": "789063",
+    "employee_firstname": "Caleb",
+    "employee_lastname": "Wilson",
+    "title": "Automation Engineer",
+    "gender_identity": "M",
+    "date_of_birth": "1985-09-30",
+    "locale": "FR-BE",
+    "employee_number": "P2-LEI-378",
+    "mobile_number": "333-111-7685",
+    "work_email": "caleb.wilson@example.com"
+  }
+]
